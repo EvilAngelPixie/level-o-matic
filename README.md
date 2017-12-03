@@ -11,7 +11,7 @@ If you are having bluetooth issues, this worked for us:
 Useful links:
 https://www.hackster.io/user16726/raspberry-pi-bluetooth-terminal-f7e9bd
 
-# Other useful Raspberry Pi things
+### Other useful Raspberry Pi things
 - sudo shutdown -P now
 - Schematics: https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/Raspberry-Pi-3B-V1.2-Schematics.pdf
 - Button basics: https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/buttons_and_switches/
